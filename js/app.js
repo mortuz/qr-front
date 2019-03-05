@@ -1,0 +1,5 @@
+// FOR jQuery
+// (function($) {
+
+// })(jquery)
+
